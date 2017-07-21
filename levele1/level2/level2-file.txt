@@ -1,0 +1,3 @@
+total 4
+-rw-rw-r-- 1 sakariah sakariah    0 Jul 21 06:53 level2-file.txt
+drwxrwxr-x 3 sakariah sakariah 4096 Jul 21 06:50 level3
