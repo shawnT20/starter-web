@@ -3,6 +3,7 @@
 
 # TEAM
 
+Thomas 
     <name> -- <role> -- <twitter>
 
 # THANKS
